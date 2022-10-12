@@ -262,5 +262,5 @@ class ContactTest {
 
     private static String toString(ContactInfo info) {
         return info.getTitle() + ": " + info.getValue();
-    }
+   }
 }
