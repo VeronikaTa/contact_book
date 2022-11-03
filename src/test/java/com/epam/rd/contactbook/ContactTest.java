@@ -1,9 +1,8 @@
-package com.epam.rd.contactbook;
+package com.epam.training.student_veronika_tarasova.contact_book.src.test.java.com.epam.rd.contactbook;
 
+import com.epam.training.student_veronika_tarasova.contact_book.src.main.java.com.epam.rd.contactbook.Contact;
+import com.epam.training.student_veronika_tarasova.contact_book.src.main.java.com.epam.rd.contactbook.ContactInfo;
 import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
-import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
